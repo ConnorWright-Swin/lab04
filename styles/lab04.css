@@ -1,0 +1,42 @@
+/*
+
+filename: lab04.css
+
+author: Connor Wright
+
+created: March 26th
+
+last modified: March 26th
+
+description: lab04.html
+
+*/
+* { font-family: calibri, sans-serif; }  
+
+* { color: darkslategrey}
+
+h1 { 
+    color: purple; 
+    font-size: 2em; 
+    font-weight: bold; 
+}
+
+h2 {
+    color: rgb(0, 128, 128);
+    font-size: 1.5em;
+    font-weight:bold;
+}
+
+aside, footer { 
+    font-style: italic; 
+}
+
+h1, h2, h3 {
+    font-family: Arial, sans-serif;
+}
+
+table, th, td {
+    border: 1px solid black;  
+}
+
+
